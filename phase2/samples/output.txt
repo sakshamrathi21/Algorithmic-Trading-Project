@@ -1,0 +1,37 @@
+TL
+0 KarGoExpress SELL AMD $120 #32 1
+0 KarGoCorp SELL AMZN $100 #30 10
+1 KarGoCorp BUY GE $200 #20 8
+1 KarGoKrab BUY AMZN $130 #12 0
+2 KarGoTravels BUY AMD $100 #50 10
+2 KarGoCorp BUY AMZN $50 #30 5
+3 KarGoKrab BUY AMD $130 #10 7
+3 KarGoCorp SELL AMZN $50 #5 0
+4 KarGoExpress SELL GE $150 #50 6
+4 KarGoTravels BUY AMD $150 #25 0
+5 KarGoExpress BUY NFLX $80 #15 6
+5 KarGoExpress SELL AMD $80 #100 -1
+6 KarGoTravels SELL AMZN $50 #22 -1
+6 KarGoCorp BUY AMD $120 #10 1
+7 KarGoCorp SELL GE $50 #15 -1
+7 KarGoKrab BUY GE $110 #10 3
+!@
+@!
+Successfully Initiated!
+KarGoKrab purchased 12 share of AMZN from KarGoCorp for $100/share
+KarGoCorp purchased 5 share of AMZN from KarGoCorp for $50/share
+KarGoCorp purchased 20 share of GE from KarGoExpress for $200/share
+KarGoKrab purchased 10 share of AMD from KarGoExpress for $130/share
+KarGoTravels purchased 50 share of AMD from KarGoExpress for $100/share
+KarGoCorp purchased 22 share of AMZN from KarGoTravels for $50/share
+KarGoCorp purchased 10 share of AMD from KarGoExpress for $80/share
+KarGoKrab purchased 10 share of GE from KarGoCorp for $50/share
+
+---End of Day--- 
+Total Amount of Money Transferred: $14150
+Number of Completed Trades: 8
+Number of Shares Traded: 139
+KarGoTravels bought 50 and sold 22 for a net transfer of $-3900
+KarGoExpress bought 0 and sold 90 for a net transfer of $11100
+KarGoCorp bought 57 and sold 27 for a net transfer of $-4200
+KarGoKrab bought 32 and sold 0 for a net transfer of $-3000

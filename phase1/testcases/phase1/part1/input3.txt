@@ -1,0 +1,8 @@
+PillagersEmboldenedByTheFlameOfAmbition 400 s#
+PillagersEmboldenedByTheFlameOfAmbition -30 s#
+PillagersEmboldenedByTheFlameOfAmbition 400 s#
+PillagersEmboldenedByTheFlameOfAmbition -30 s#
+PillagersEmboldenedByTheFlameOfAmbition 7000 b#
+PillagersEmboldenedByTheFlameOfAmbition 6000 b#
+PillagersEmboldenedByTheFlameOfAmbition -30 b#
+PillagersEmboldenedByTheFlameOfAmbition -30 s#

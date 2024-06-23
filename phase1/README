@@ -1,0 +1,6 @@
+Details of Implementation
+
+iml.cpp contains the code for reading data from the inputs and passing it to trader through a socket
+trader.cpp should contain your algorithm for reading from the socket and printing trades to standard output
+receiver.h contains the code for the receiver used for reading from the socket.
+Use rcv.readIML() to read the input string.

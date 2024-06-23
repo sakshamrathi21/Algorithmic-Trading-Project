@@ -1,0 +1,129 @@
+TL
+0 KG BUY AAPL $118 #12 14
+0 GS BUY AMZN $218 #2 2
+0 AA SELL AAPL $88 #5 0
+0 AA SELL NFLX $469 #5 2
+0 AA BUY GE $157 #14 -1
+1 SV BUY AMZN $407 #11 18
+1 AA SELL AMD $70 #14 4
+1 GS BUY AMZN $92 #8 18
+1 KA BUY AMZN $261 #0 15
+1 AA SELL NFLX $188 #13 14
+2 SM SELL AMD $250 #10 8
+2 GS SELL GE $165 #6 15
+2 KA BUY AMD $206 #9 17
+2 OT SELL AAPL $58 #13 19
+3 GS SELL NFLX $256 #9 0
+3 OT BUY AMZN $256 #3 10
+4 SM BUY AAPL $211 #5 9
+4 AKG SELL AAPL $22 #13 13
+4 KA BUY AMZN $23 #8 8
+4 KG BUY AMD $322 #14 10
+4 GS SELL AMD $242 #8 16
+4 SM BUY GE $231 #5 16
+5 KA BUY AAPL $98 #6 16
+5 AKG SELL GE $363 #2 13
+5 KG SELL AAPL $129 #16 19
+5 OT SELL AMD $83 #9 11
+6 SM BUY AMD $289 #12 7
+6 GS BUY AMD $193 #2 5
+6 SM BUY AMZN $14 #16 0
+6 AA SELL AMD $279 #2 6
+7 KG BUY NFLX $137 #3 15
+7 KG BUY NFLX $310 #9 -1
+7 AKG SELL AAPL $331 #6 -1
+7 OT SELL AMD $132 #6 13
+8 KA BUY AMD $494 #5 -1
+8 OT BUY NFLX $270 #6 -1
+8 KG BUY GE $270 #0 -1
+9 GS BUY AMZN $238 #0 8
+9 KA SELL NFLX $204 #9 7
+9 AKG BUY NFLX $397 #7 -1
+9 KG BUY AMZN $97 #11 10
+9 SM SELL GE $267 #10 -1
+10 AKG SELL GE $218 #14 14
+10 OT BUY AMZN $274 #12 10
+10 SM BUY NFLX $480 #13 8
+10 SM BUY GE $96 #8 -1
+11 AA BUY NFLX $396 #1 7
+11 AKG SELL AMZN $295 #12 12
+11 SM SELL AAPL $102 #15 2
+12 KA BUY AMZN $29 #4 8
+12 SM SELL AMZN $162 #11 10
+12 KG BUY AMZN $113 #16 13
+12 AA BUY AAPL $455 #16 8
+13 AKG BUY NFLX $182 #11 13
+13 SM BUY GE $221 #0 15
+13 GS SELL AMD $202 #12 8
+13 AKG BUY GE $94 #9 18
+14 AA BUY NFLX $477 #11 0
+14 KG BUY AMD $105 #0 10
+14 GS SELL GE $103 #1 19
+14 AKG SELL NFLX $370 #1 16
+15 AA BUY GE $166 #0 17
+15 AA BUY AMZN $305 #16 19
+15 KA BUY AMD $184 #13 16
+15 OT SELL NFLX $468 #9 -1
+16 GS SELL GE $286 #14 -1
+16 KA BUY NFLX $3 #0 4
+16 AKG BUY GE $240 #7 17
+16 AA BUY AMZN $390 #16 6
+16 SM SELL AAPL $308 #10 11
+17 AKG BUY AMD $100 #13 9
+17 GS BUY NFLX $437 #5 -1
+17 AKG BUY NFLX $74 #16 5
+17 SV SELL AAPL $483 #12 8
+18 KG SELL NFLX $59 #7 18
+18 OT SELL AMZN $404 #7 -1
+18 SM SELL AAPL $406 #16 7
+18 GS SELL NFLX $333 #15 19
+19 KG BUY AMZN $133 #8 1
+19 GS SELL NFLX $296 #15 16
+!@
+@!
+Successfully Initiated!
+KG purchased 5 share of AAPL from AA for $118/share
+KA purchased 9 share of AMD from AA for $70/share
+KG purchased 7 share of AAPL from OT for $118/share
+SM purchased 5 share of AAPL from OT for $58/share
+KG purchased 5 share of AMD from AA for $70/share
+KG purchased 9 share of AMD from SM for $250/share
+SM purchased 5 share of GE from GS for $165/share
+KA purchased 6 share of AAPL from AKG for $22/share
+SM purchased 9 share of AMD from OT for $83/share
+SM purchased 3 share of AMD from GS for $242/share
+KG purchased 9 share of NFLX from AA for $188/share
+GS purchased 2 share of AMD from OT for $193/share
+KA purchased 4 share of AMD from OT for $132/share
+KA purchased 1 share of AMD from GS for $242/share
+OT purchased 4 share of NFLX from AA for $188/share
+KG purchased 0 share of GE from GS for $165/share
+OT purchased 2 share of NFLX from KA for $270/share
+AKG purchased 7 share of NFLX from KA for $204/share
+SV purchased 11 share of AMZN from AKG for $407/share
+OT purchased 11 share of AMZN from SM for $274/share
+AA purchased 7 share of AAPL from AKG for $22/share
+AA purchased 1 share of AAPL from OT for $58/share
+AA purchased 8 share of AAPL from SM for $102/share
+SM purchased 0 share of GE from GS for $165/share
+AA purchased 1 share of GE from GS for $157/share
+SM purchased 1 share of NFLX from AKG for $480/share
+AA purchased 0 share of GE from GS for $165/share
+AA purchased 1 share of AMZN from AKG for $295/share
+SM purchased 9 share of NFLX from OT for $480/share
+AKG purchased 1 share of GE from GS for $165/share
+AKG purchased 6 share of GE from AKG for $218/share
+GS purchased 5 share of NFLX from GS for $437/share
+
+---End of Day--- 
+Total Amount of Money Transferred: $30363
+Number of Completed Trades: 32
+Number of Shares Traded: 154
+SV bought 11 and sold 0 for a net transfer of $-4477
+AKG bought 14 and sold 32 for a net transfer of $3945
+GS bought 7 and sold 16 for a net transfer of $1729
+SM bought 32 and sold 28 for a net transfer of $-1308
+OT bought 17 and sold 37 for a net transfer of $2849
+KA bought 20 and sold 9 for a net transfer of $436
+AA bought 18 and sold 32 for a net transfer of $2534
+KG bought 35 and sold 0 for a net transfer of $-5708

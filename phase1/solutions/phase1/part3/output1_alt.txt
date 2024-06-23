@@ -1,0 +1,18 @@
+Receiver is listening on port 8888
+No Trade
+A 5 5 3 b
+A 3 10 5 s
+No Trade
+A 5 5 2 b
+A 3 10 4 s
+A 5 5 1 b
+A 3 10 1 s
+No Trade
+A 5 5 1 b
+A 3 10 3 s
+A 5 5 2 b
+A 3 10 2 s
+A 3 10 2 s
+A 5 5 3 b
+A 3 10 3 s
+140

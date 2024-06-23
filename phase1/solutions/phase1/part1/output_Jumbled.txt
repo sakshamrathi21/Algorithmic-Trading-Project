@@ -1,0 +1,21 @@
+Receiver is listening on port 8888
+TakeMeHomeCountryRoads 100 s
+No Trade
+TradeOutOfLove 500 b
+No Trade
+PillagersEmboldenedByTheFlameOfAmbition 400 b
+PillagersEmboldenedByTheFlameOfAmbition -30 b
+No Trade
+No Trade
+No Trade
+No Trade
+No Trade
+PillagersEmboldenedByTheFlameOfAmbition 7000 s
+No Trade
+No Trade
+TradeOutOfLove 600 s
+No Trade
+No Trade
+No Trade
+No Trade
+TakeMeHomeCountryRoads 140 s

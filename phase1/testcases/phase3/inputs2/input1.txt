@@ -1,0 +1,3 @@
+NonKarGo SELL NFLX $71 #10 0
+KarGo SELL AMD $120 #43 4
+Tom BUY VOLK $130 #32 6

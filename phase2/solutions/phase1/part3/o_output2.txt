@@ -1,0 +1,19 @@
+Receiver is listening on port 8888
+No Trade
+No Trade
+IRCTC -1 LTIM 1 10 2 s
+SIEMENS 1 LTIM -1 -15 2 s
+IRCTC 1 SIEMENS -1 10 2 s
+No Trade
+No Trade
+No Trade
+B -8 GRASIM 1 13 8 s
+VEDL -2 GRASIM 2 10 8 s
+B 5 GRASIM -3 12 8 s
+VEDL 2 B 3 10 8 s
+No Trade
+No Trade
+IRCTC -2 SIEMENS -1 LTIM 2 10 1 s
+SIEMENS 4 LTIM -2 10 1 s
+IRCTC 2 SIEMENS -3 15 1 s
+405

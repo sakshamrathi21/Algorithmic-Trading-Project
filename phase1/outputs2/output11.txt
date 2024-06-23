@@ -1,0 +1,12 @@
+Receiver is listening on port 8888
+No Trade
+No Trade
+No Trade
+No Trade
+Z 1 X -1 20 s#
+Z 1 X 1 Q -2 -15 s#
+Q 2 Z -2 25 s#
+Z 1 X -1 20 s#
+P -1 Z -1 -30 s#
+P 1 X 1 20 s#
+40

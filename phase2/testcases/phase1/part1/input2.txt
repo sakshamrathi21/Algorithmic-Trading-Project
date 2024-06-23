@@ -1,0 +1,7 @@
+TradeOutOfLove 500 s#
+TradeOutOfLove 600 s#
+TradeOutOfLove 600 s#
+TradeOutOfLove 600 b#
+TradeOutOfLove 120000 s#
+TradeOutOfLove 600 b#
+TradeOutOfLove 120000 b#

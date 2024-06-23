@@ -1,0 +1,4 @@
+Details of Implementation
+
+iml.cpp contains the code for reading data from the markets and passing it to trader through sockets
+trader.cpp should contain your algorithm for reading from the sockets and printing trades to respective trace files.
